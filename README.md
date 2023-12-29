@@ -1,2 +1,2 @@
 # html-basics
-here we will study about the html basics
+here we will study about the html basics.
